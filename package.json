@@ -1,4 +1,5 @@
 {
+  "name": "spring2026-lectures",
   "devDependencies": {
     "vite": "^8.0.3"
   }
